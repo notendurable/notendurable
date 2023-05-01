@@ -22,10 +22,15 @@ Front-End Enthusiast
 
 
 🔭 I’m currently working on improving myself
+
 🌱 I’m currently working on a Front-End Project
+
 🤔 I’m looking for help with interviews
+
 📫 How to reach me by email - manav.dhora@gmail.com
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I am a passionate gamer and more focused on FPS games.
 
 <!---
