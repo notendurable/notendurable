@@ -24,17 +24,17 @@ Front-End Enthusiast
 
 📍 Live in Toronto
 
+😄 Pronouns: He/Him
+
+📫 How to reach me by email - manav.dhora@gmail.com
+
 🔭 I’m currently working on improving myself
 
 🌱 I’m currently working on a Front-End Project
 
 🤔 I’m looking for help with interviews
 
-📫 How to reach me by email - manav.dhora@gmail.com
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I am a passionate gamer and more focused on FPS games.
+⚡ Fun fact: I am a passionate FPS gamer.
 
 <!---
 notendurable/notendurable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
