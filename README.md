@@ -1,13 +1,12 @@
 Welcome! I'm Manav.🙋‍♂️
 
+![Uploading 88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif…]()
+
+
 Data Enthusiast
 
 📚 Languages
-https://user-images.githubusercontent.com/75903971/235540119-0bfc38ee-e86b-4ffc-a201-7e218cfac1cc.svg Python, SQL, R, Java. 
-
-
-🛢 Database
-
+Python, SQL, R, Java.
 
 🖌️FrameWorks
 
