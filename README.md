@@ -1,12 +1,9 @@
 Welcome! I'm Manav.🙋‍♂️
 
-https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif
-
-
 Data Enthusiast
 
 📚 Languages
-Python, SQL, R, Java.
+![alt text]([http://url/to/img.png](https://junilearning.com/blog/guide/what-is-python-101-for-students/))Python, SQL, R, Java.
 
 🖌️FrameWorks
 
