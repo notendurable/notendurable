@@ -3,7 +3,7 @@ Welcome! I'm Manav.🙋‍♂️
 Data Enthusiast
 
 📚 Languages
-![alt text]([http://url/to/img.png](https://junilearning.com/blog/guide/what-is-python-101-for-students/))Python, SQL, R, Java.
+![Python]([http://url/to/img.png](https://junilearning.com/blog/guide/what-is-python-101-for-students/))Python, SQL, R, Java.
 
 🖌️FrameWorks
 
