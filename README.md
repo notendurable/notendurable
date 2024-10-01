@@ -1,9 +1,11 @@
 Welcome! I'm Manav.🙋‍♂️
 
+![stack Overflow](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif)
+
 Data Enthusiast
 
 📚 Languages
-![Python]([http://url/to/img.png](https://junilearning.com/blog/guide/what-is-python-101-for-students/))Python, SQL, R, Java.
+Python, SQL, R, Java.
 
 🖌️FrameWorks
 
